@@ -13,7 +13,7 @@ A simple Python-based command-line quiz game that tests your knowledge about bas
 1. Make sure Python is installed on your system or extension in Visual Studio Code.
 2. Clone this repository:
 
-git clone https://github.com/amnanaseerr/quiz-game.git
+https://github.com/amnanaseerr/QUIZ-PYTHON
 
 3. Navigate to the project directory:
 4. Run the script:
